@@ -1,4 +1,4 @@
-# [Change to your name]
+# Brooke King
 
 ## About Me
-Put a brief bio here about you. Use a few **bold** and _italic_ words and maybe a [link or two](http://www.google.com).
+Hi, I'm Brooke. This is my **7th year** as a teacher (3 in 5th grade, 4 in elementary technology/STEM) and my _last_ semester of grad school! Around my school I am known for my love of costumes and fun classroom design. You can see some examples of this on my class [website](https://the-imaginationstation.weebly.com/about-ms-king.html). I love reading, cooking/baking, Crossfit, roller coasters, and learning new things. I'm in the process of building my first house and love finding DIY solutions to get the _look_ I want without breaking the bank. I love all animals (except birds) and have **4** dogs. I'm looking forward to learning more about coding and how I can incorperate my knowledge into my classes. I want to eventually create something similar to [ClassroomScreen](https://app.classroomscreen.com/wv1/32d0321e-1e2c-4671-86b3-1c31a4e32fa3), but with a few modifications and I'm hoping this class can help me achieve that.
